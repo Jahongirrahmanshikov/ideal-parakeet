@@ -267,7 +267,7 @@ ____________
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Image.asset(
-                                "assets/images/clock.png",
+                                "assets/images/clock2.png",
                                 width: 200,
                                 height: 220,
                               ),
